@@ -1,4 +1,7 @@
-# Puppet rdio for Boxen
+# Rdio Puppet Module for Boxen
 
-FIXME: update me bro
+## Usage
 
+```puppet
+include rdio
+```
