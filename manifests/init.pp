@@ -1,3 +1,9 @@
+# Public: Installs the Rdio app
+#
+# Example
+#
+#   include rdio
+
 class rdio {
   package { 'Rdio':
     provider => 'appdmg',
