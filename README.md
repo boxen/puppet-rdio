@@ -5,3 +5,9 @@
 ```puppet
 include rdio
 ```
+
+## Developing
+
+Write code.
+
+Run `script/cibuild`.
