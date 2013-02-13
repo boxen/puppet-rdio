@@ -6,6 +6,10 @@
 include rdio
 ```
 
+## Required Puppet Modules
+
+None.
+
 ## Developing
 
 Write code.
